@@ -34,7 +34,7 @@
     "aws-serverless-express": "^3.3.6",
     "core-js": "^2.5.4",
     "dotenv": "^8.2.0",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "rxjs": "~6.2.0",
     "serverless-apigw-binary": "^0.4.4",
     "zone.js": "~0.8.26"
